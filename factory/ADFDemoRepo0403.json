@@ -1,0 +1,9 @@
+{
+	"name": "ADFDemoRepo0403",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7442e21c-5b9e-4e32-9c6b-2505aab47c95",
+		"tenantId": "85ef1104-5df9-42a6-a7b1-88735542e4a1"
+	}
+}
